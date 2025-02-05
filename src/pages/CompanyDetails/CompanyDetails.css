@@ -1,0 +1,25 @@
+.btn-address-group .btn-add,.btn-address-group .btn-edit{
+    background-color: blue;
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    margin: 20px 0;
+}
+.company-details-conatiner{
+    margin: 50px 0 !important;
+}
+.btn-address-group .btn-add{
+    margin-right: 10px;
+}
+
+.title{
+    margin-bottom: 20px;
+}
+.card{
+    border-radius: 10px 10px 10px 10px;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    background-color: lightblue;
+   
+}
